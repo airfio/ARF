@@ -1,0 +1,9 @@
+Building ARFCOIN
+
+See doc/readme-qt.rst for instructions on building ARFCOIN QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of ARFCOIN.
+
+See doc/build-*.txt for instructions on building arfcoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of ARFCOIN.
